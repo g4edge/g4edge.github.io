@@ -6,7 +6,7 @@ permalink: /
 
 Geant4 on the edge. Various projects related to Geant4, but do not belong in the main Geant4 release.  
 
-## [pyg4ometry](https://github.com/g4edge/pyg4ometry)
+## [pyg4ometry](./pyg4ometry.html)
 
 python code to create, convert, modify, export geometries for RTMC codes (Geant4, FLUKA, MCNP) 
 

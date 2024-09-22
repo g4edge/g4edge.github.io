@@ -4,4 +4,7 @@ layout: page
 
 # G4cgalboolean
 
+The Geant4 boolean processor often fails to compute a resulting mesh. There are other meshing tools available but many suffer
+from robustness issues. g4cgalboolean uses [CGAL](https://www.cgal.org) mesh [boolean and refinement](https://doc.cgal.org/latest/Polygon_mesh_processing/group__PMP__corefinement__grp.html) to perform boolean operations. 
+
  * [Source code repository](https://github.com/g4edge/g4cgalboolean)

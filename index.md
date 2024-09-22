@@ -1,3 +1,7 @@
+layout: page
+title: "g4edge landing page"
+permalink: /
+
 Geant4 on the edge. Various projects related to Geant4, but do not belong in the main Geant4 release.  
 
 ## [pyg4ometry](https://github.com/g4edge/pyg4ometry)

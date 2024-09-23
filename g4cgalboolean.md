@@ -15,7 +15,14 @@ An virtual base class `G4VBooleanProcessor` can be implemented to provide the
 boolean processing functionality. In the case of `g4cgalboolean` this class is called `G4BooleanProcessorCGAL` and Geant4 can be informed to use it via a static method of `G4Boolean` so
 
 ```
+..
+#include "G4BooleanProcessorCGAL.hh"
+...
+
 int main(int argc, char** argv) {
   G4BooleanSolid::SetExternalBooleanProcessor(new G4BooleanProcessorCGAL());
-
+  ...
+  ...
+  
 ```
+

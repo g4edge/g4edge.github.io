@@ -24,3 +24,9 @@ int main(int argc, char** argv) {
   ...
   ...```
 
+### Using g4cgalboolean in your project
+
+1. Copy the `src` and `include` code over to your geant4 application (`G4BooleanProcessorCGAL`, `G4SurfaceMeshCGAL` and `G4VSurfaceMesh`)
+1. Install CGAL using your package manager 
+1. Add CGAL to your `CMakeLists.txt` see example in repo
+1. Compile and enjoy

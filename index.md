@@ -21,3 +21,5 @@ Half-spaces offer another way to define solids.
 ## [g4cad](https://github.com/g4edge/g4cad)
 
 ## [g4PGT](https://github.com/g4edge/g4PGT)
+
+## [OCCT ubuntu 7.8.1](./occt/occt-install.tgz)

@@ -4,6 +4,7 @@ layout: page
 
 # Pyg4ometry
 
+### Introduction
 A pythonic interface to geometry
 
  * [Source code repository](https://github.com/g4edge/pyg4ometry)
